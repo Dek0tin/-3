@@ -1,0 +1,6 @@
+ Text();
+                textText = Console.WriteLine();
+                string[] textList = texText;
+                textLen = textList;
+                textList[2..3] = [X] * textLen(textList[2..3]);
+                }
